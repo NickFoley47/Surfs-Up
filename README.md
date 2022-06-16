@@ -12,10 +12,12 @@ The purpose of this analysis is to analyze the temperature data for June and Dec
 -	June minimum temperature is 64 degrees Fahrenheit, and December has a minimum of 56 degrees Fahrenheit
 
 June Statistics:  
+
 ![June_Stats](https://github.com/NickFoley47/Surfs-Up/blob/main/Pics/June_Stats.PNG)
 
 
 December Statistics: 
+
 ![Dec_Stats]( https://github.com/NickFoley47/Surfs-Up/blob/main/Pics/Dec_Stats.PNG)
 
  ## Summary 
@@ -24,7 +26,9 @@ June has a great temperature range to allow the surf and ice cream shop to be su
 The rain data for the month of June produces a mean of .136 inches and December has a mean of .216 inches of rain. Rain is an important piece of weather to look at because with weather comes storms, colder weather which will reduce the number of surfers for that day. The mean for June and December is low, which should not be a concern for the surf and ice cream shop.
 
 June Rain Statistics: 
+
 ![June_Rain]( https://github.com/NickFoley47/Surfs-Up/blob/main/Pics/June_Rain.PNG)
 
 December Rain Statistics:
+
 ![Dec_Rain](https://github.com/NickFoley47/Surfs-Up/blob/main/Pics/Dec_Rain.PNG)
