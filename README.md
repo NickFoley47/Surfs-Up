@@ -14,6 +14,7 @@ The purpose of this analysis is to analyze the temperature data for June and Dec
 June Statistics:  
 ![June_Stats](https://github.com/NickFoley47/Surfs-Up/blob/main/Pics/June_Stats.PNG)
 
+
 December Statistics: 
 ![Dec_Stats]( https://github.com/NickFoley47/Surfs-Up/blob/main/Pics/Dec_Stats.PNG)
 
